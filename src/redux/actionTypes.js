@@ -1,0 +1,3 @@
+export const ADD_COMMENT = 'ADD_COMMENT';
+export const ADD_SOUND_FILE = 'ADD_SOUND_FILE';
+export const REMOVE_SOUND_FILE = 'REMOVE_SOUND_FILE';
